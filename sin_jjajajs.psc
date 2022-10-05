@@ -21,5 +21,9 @@ Algoritmo conjunto
 				n<-n+1
 			FinMientras
 			Escribir "El total es:", Num_total
+			
+			
+			
+			
 	FinSegun
 FinAlgoritmo
